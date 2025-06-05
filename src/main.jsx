@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Player from "./App.jsx";
+import MainPage from "./MainPage.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Player />
+    <MainPage />
   </React.StrictMode>
 );
